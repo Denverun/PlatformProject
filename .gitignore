@@ -1,0 +1,11 @@
+libs/*.dll
+.vscode
+data/data.sav
+data/data.txt
+data/data.xml
+src/*.o
+build/*
+
+PlatformGame.exe
+
+include/player.h
