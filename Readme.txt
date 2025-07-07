@@ -22,6 +22,8 @@ Here is the first version of the game. There are some bugs but it is not likely 
 
 Those you can find in the SFML website, which is a package for C++ visual programming.
 
-In order to compile, you have to go to the root directory of this game in a cmd, and write "make". Then, an executable "PlatformGame" will be created. You juste have to run the executable file.
+Furthermore, you should also have a C++ Compiler (GCC version 12.3.0 MinGW)
+
+In order to compile, you have to go to the root directory of this game in a cmd, and write "make". Then, an executable "PlatformGame" will be created. You just have to run the executable file.
 
 Enjoy the beta version !
