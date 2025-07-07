@@ -2,7 +2,9 @@ DreamStone is a game in which the goal is to collect characters and to progress 
 
 Here is the first version of the game. There are some bugs but it is not likely that you will discover many of them.
 
-To run this program correctly, you have to install the following files in the libs directory (without "-" in the name) :
+%To run this program correctly, you have to install the following files, create a new "libs" directory in the root directory and paste those files in the new "libs" directory (without "-" in the name) :
+
+%If you have some trouble running the game, verify you have the following files in the "libs" directory (without "-" in the name). :
 
 -libgcc_s_seh-1.dll
 -libstdc++-6.dll
