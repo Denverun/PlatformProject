@@ -36,7 +36,7 @@ sf::VertexArray border5(sf::LinesStrip, 7), border5wall1(sf::LinesStrip, 5), bor
 sf::VertexArray border6(sf::LinesStrip, 9), border6wall(sf::LinesStrip, 5);
 sf::VertexArray border7(sf::LinesStrip, 5), border7wall(sf::LinesStrip, 5);
 
-int coinStock = 1, orbStock=1000;
+int coinStock = 1, orbStock=1;
 int fractionCoinLost=0;
 
 sf::Text lostHealth;
