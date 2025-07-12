@@ -10,7 +10,7 @@ To compile the program into the game correctly, you first have to install a C++ 
 
 -Then you have to open the file "PlatformProject/Makefile" with a text editor, and modify the paths of the variables CXXFLAGS and LDFLAGS. Replace -I"path1" to -I"pathToSFML\SFML-2.5.1\include" and -L"path2" to -L"pathToSFML\SFML-2.5.1\lib"
 
--Then, open a cmd, go to the directory PlatformProject, and run the command : make
+-Then, open a cmd, go to the directory PlatformProject, and run the command : make (or exe)
 
 -Finally, an executable "PlatformGame" should be created at the root directory. You just have to run the executable file.
 
